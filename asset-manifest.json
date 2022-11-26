@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azizcom/static/css/main.a108fea5.css",
+    "main.js": "/azizcom/static/js/main.5c1d7dd4.js",
+    "index.html": "/azizcom/index.html",
+    "main.a108fea5.css.map": "/azizcom/static/css/main.a108fea5.css.map",
+    "main.5c1d7dd4.js.map": "/azizcom/static/js/main.5c1d7dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a108fea5.css",
+    "static/js/main.5c1d7dd4.js"
+  ]
+}
